@@ -1,0 +1,8 @@
+{
+  "name": "VogueAI - Personal Stylist",
+  "description": "An AI-powered fashion tech platform that analyzes your image to provide personalized outfit recommendations, interactive styling advice, and AI-generated fashion visuals.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
